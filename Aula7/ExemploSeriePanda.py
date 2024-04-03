@@ -34,3 +34,4 @@ media = serie.mean()
 soma = serie.sum()
 print("Média:", media)
 print("Soma:", soma)
+
